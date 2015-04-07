@@ -4,3 +4,7 @@ abc.....
 
 
 hahhah..this is an uncomiited change
+
+This should be in the staged version...
+
+This should be in the WD copy.
